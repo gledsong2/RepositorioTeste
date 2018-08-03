@@ -1,0 +1,6 @@
+E:\PROJETOS_CS\CSIfs.Fatorial\CSIfs.Fatorial\bin\Debug\CSIfs.Fatorial.exe.config
+E:\PROJETOS_CS\CSIfs.Fatorial\CSIfs.Fatorial\bin\Debug\CSIfs.Fatorial.exe
+E:\PROJETOS_CS\CSIfs.Fatorial\CSIfs.Fatorial\bin\Debug\CSIfs.Fatorial.pdb
+E:\PROJETOS_CS\CSIfs.Fatorial\CSIfs.Fatorial\obj\Debug\CSIfs.Fatorial.csproj.CoreCompileInputs.cache
+E:\PROJETOS_CS\CSIfs.Fatorial\CSIfs.Fatorial\obj\Debug\CSIfs.Fatorial.exe
+E:\PROJETOS_CS\CSIfs.Fatorial\CSIfs.Fatorial\obj\Debug\CSIfs.Fatorial.pdb
